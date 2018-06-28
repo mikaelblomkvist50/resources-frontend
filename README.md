@@ -15,15 +15,13 @@
 
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/2 
 
-
-### HEAding
 <table>
   <tr>
     <td><a href="#a-a">a</a></td>
     <td><a href="#b-abbr">abbr</a></td>
-    <td><a href="#c-acronym>acronym</a></td>
-    <td><a href="#d-b>b</a></td>
-    <td><a href="#e-bdo>bdo</a></td>
+    <td><a href="#c-acronym">acronym</a></td>
+    <td><a href="#d-b">b</a></td>
+    <td><a href="#e-bdo">bdo</a></td>
   </tr>
 </table>
 
