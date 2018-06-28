@@ -10,10 +10,12 @@
 #### Block Elements `{ display: block; }`
 
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/1
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
 
 #### Inline Elements `{ display: inline; }`
 
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/2 
+* http://maxdesign.com.au/articles/inline/
 
 <table>
   <tr>
@@ -28,6 +30,7 @@
 #### Inline Block Elements `{ display: inline-block; }`
 
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/3
+* https://www.impressivewebs.com/inline-block/
 
 <table>
   <tr>
