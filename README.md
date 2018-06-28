@@ -13,6 +13,14 @@
 ###### Inline Elements `{ display: inline; }`
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/2 
 
+Inline elements in HTML:
+<table>
+  <tr>
+    <td><a href="a-a">\<a></a></td>
+    <td><a href="b-abbr"><abbr></a></td>
+  </tr>
+</table>
+
 ###### Inline Block Elements `{ display: inline-block; }`
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/3
 
