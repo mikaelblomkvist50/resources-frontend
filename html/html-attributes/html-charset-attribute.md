@@ -1,1 +1,0 @@
-`<meta charset="UTF-8"` the `charset` attribute with value `"UTF-8"` this is all we need to tell the browser that we want to use a specific set of characters inside the website.  - [mmtuts](https://www.youtube.com/watch?v=bupWPZdXqIA&index=1&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)

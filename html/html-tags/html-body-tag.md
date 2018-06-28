@@ -1,1 +1,0 @@
-`<body></body>` inside the body tag we insert content that we do actually see inside the website such as images, text, headers, navigation that sort of thing. All those things you put inside the body tag.  - [mmtuts](https://www.youtube.com/watch?v=bupWPZdXqIA&index=1&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)

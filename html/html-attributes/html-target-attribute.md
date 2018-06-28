@@ -1,1 +1,0 @@
-`<a href="google.com" target="_blank">` the `target` attribute with the value `_blank` this takes people a different tab. - [mmtuts](https://www.youtube.com/watch?v=DiSvq5SgLMI&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU&index=11)
