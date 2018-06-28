@@ -21,7 +21,7 @@
     <td><a href="#b-abbr">abbr</a></td>
     <td><a href="#c-acronym">acronym</a></td>
     <td><a href="#d-b">b</a></td>
-    <td><a href="#e-bdo">bdo</a></td>
+    <td><a href="#e-bdo"><bdo></a></td>
   </tr>
 </table>
 
