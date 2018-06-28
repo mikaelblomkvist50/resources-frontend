@@ -29,6 +29,13 @@
 
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/6/step/3
 
+<table>
+  <tr>
+    <td><a href="#a-img">< img></a></td>
+    <td><a href="#b-button">< button></a></td>
+  </tr>
+</table>
+
 ## css
 
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/
