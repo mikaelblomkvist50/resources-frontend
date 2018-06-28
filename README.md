@@ -41,4 +41,5 @@
 
 ## css
 
+* [CSS Basics - DevTips - 28 Oct 2013](https://www.youtube.com/watch?v=s7ONvIgOWdM&list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy)
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/
