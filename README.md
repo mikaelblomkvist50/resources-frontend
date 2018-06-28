@@ -16,8 +16,8 @@
 Inline elements in HTML:
 <table>
   <tr>
-    <td><a href="a-a">\<a></a></td>
-    <td><a href="b-abbr"><abbr></a></td>
+    <td><a href="a-a">\<a\></a></td>
+    <td><a href="b-abbr">\<abbr\></a></td>
   </tr>
 </table>
 
