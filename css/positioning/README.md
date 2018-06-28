@@ -8,3 +8,4 @@
 
 
 * [CSS POSITIONING (PART1) - DevTips - 3 Feb 2014](https://www.youtube.com/watch?v=kejG8G0dr5U&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6)
+* [CSS POSITIONING (PART 2) - DevTips - 3 Feb 2014](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&index=2)
