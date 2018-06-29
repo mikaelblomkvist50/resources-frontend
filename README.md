@@ -49,5 +49,5 @@
 ## Courses
 
 #### Plural Sight
-- [HTML, CSS, and JavaScript: The Big Picture by Barry Luijbregts](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents) **|** Released 23 Apr 2018 **|** Level Beginner
+- [HTML, CSS, and JavaScript: The Big Picture by Barry Luijbregts](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents) **|** Released 23 Apr 2018 **|** Level Beginner **|** I did enjoy this cource great overview for fornend landscape :)
 - [Introduction to CSS by Scott Allen](https://app.pluralsight.com/library/courses/css-intro/table-of-contents) **|** Released 18 Jul 2011 **|** Level Beginner
