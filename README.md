@@ -45,3 +45,9 @@
 
 * [CSS Basics - DevTips - 28 Oct 2013](https://www.youtube.com/watch?v=s7ONvIgOWdM&list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy)
 * https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/
+
+## Courses
+
+#### Plural Sight
+- [HTML, CSS, and JavaScript: The Big Picture by Barry Luijbregts](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents) **|** Released23 Apr 2018 **|** Level Beginner
+
