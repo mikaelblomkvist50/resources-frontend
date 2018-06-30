@@ -1,0 +1,1 @@
+[Introduction to CSS by Scott Allen - 3: CSS and the Box Model - Vertical Margins Collapse - 1m 50s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-box&clip=4&mode=live)
