@@ -16,10 +16,22 @@
  
 - [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 5: Three Key Differences - 4m 48s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/5) 
 
-```html
+#### First Key Difference
 
-```
+What happens to the content that comes after the positioned element?
 
-```css
+Absolute: content after the positioned element will ignore the positioned element and will move up underneath it.
 
-```
+Relative: content after the positoned element will leave space for the positioned element.
+
+Fixed: Content after the positioned element will ignore the positional element and will move up underneath it.
+
+#### Second Key Difference 
+
+Do positioned elements shrink-wrap or stay at the same width?
+
+Absolute: Initially shrinks-wrapped but can be sized or stretched.
+
+Relative: If it's a block level element they will initially be streched but they can be given size. If it's a inline element they will initially shrink-wrap and cannot be given size.
+
+Fixed: Initially shrink-wrapped but can be sized or stretched.
