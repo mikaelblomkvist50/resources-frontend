@@ -1,5 +1,7 @@
 ## Example 1
 
+https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-intro&clip=7&mode=live
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
