@@ -3,3 +3,5 @@
 
 [Box model: collapsing top & bottom margins - Thomas Bradley - Published on 24 Jan 2015](https://www.youtube.com/watch?v=4nGZ8OULcY0)
   * Top and bottom margins collaps to be the tallest of the 2.
+  * The paragraphs margin is existing outside the parent div, so margins actualluy break out of there parent boxes if that parent box doesn't have a margin or padding of it's own.
+
