@@ -1,0 +1,5 @@
+# Relative and Absolute positioning
+
+
+
+Notes based on https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/t/lecture/2569174?start=0 So far all our elements were relative positioned elements. That means that the position on the web page is determined by other elements. Now elements with absolute position can be positioned anywhere we want, inside there parent element. Better show you how it works.....First thing we need to make sure is that the parent element is a relative element by apllying `position: relative;`. Then the chiled element that you want to position relative to the parent element needs to be applied with the `position: absolute;`. Then yo can use properties/value such as `top: 10px;` and `right: 30px;` to postition it exactlt to your tast.
