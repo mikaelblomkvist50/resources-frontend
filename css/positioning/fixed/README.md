@@ -1,0 +1,1 @@
+- [Introduction to CSS by Scott Allen - 5: Layout with CSS - Absolute and Fixed Positioning - 1m 28s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=3&mode=live)
