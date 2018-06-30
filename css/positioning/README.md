@@ -12,4 +12,14 @@
 * [Introduction to CSS by Scott Allen - 5: Layout with CSS - Position - 2m 20s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=1&mode=live)
   * I guess a when you apply `position: relative;` to an element without the `top: somehting px;` and `left: something px` the elemenis still in static position. 
 
+---
  
+- [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 5: Three Key Differences - 4m 48s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/5) 
+
+```html
+
+```
+
+```css
+
+```
