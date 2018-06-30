@@ -11,3 +11,5 @@
 * [CSS POSITIONING (PART 2) - DevTips - 3 Feb 2014](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&index=2)
 * [Introduction to CSS by Scott Allen - 5: Layout with CSS - Position - 2m 20s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=1&mode=live)
   * I guess a when you apply `position: relative;` to an element without the `top: somehting px;` and `left: something px` the elemenis still in static position. 
+
+ 
