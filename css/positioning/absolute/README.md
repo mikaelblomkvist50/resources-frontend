@@ -10,7 +10,7 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 
 3. What is the  `{ position: absolute; }` element relative to?
 
-It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }`. However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
+It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }` or `{ position: absolute; }`. However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
 
 4. What happens if I scroll?
 
