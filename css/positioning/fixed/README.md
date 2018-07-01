@@ -1,4 +1,16 @@
-When I hear this element is `positioned: fixed;` I think that the elements width and height will be  shrink-wrap around the content. The fixed positioned element will move up of the page and the In normal flow content below will move up to where the fixed position element was positioned before hand. Also the top 0 and bottom 0 will be relative to the view port not its closeset parent.
+When I hear this element is `positioned: fixed;` I think of these things:
+
+1. What happens to the content that comes after the `{ position: fixed; }` element?
+
+Content after the `{ postition: fixed; }` element will ignore the `{ position: fixed; }` element and will move up underneath it. This results in the `{postition: fixed; }` element being overlayed on top of the previously below element which just moved up.
+
+2. Do `{ position: fixed; }` elements shrink-wrap or stay at the same length?
+
+It originally shrink-wraps but can be sized or strethced later on.
+
+3. What is the  `{ positioned: fixed; }` element relative to?
+
+It is positioned relative to to the viewport/browser window.
 
 - [Pluralsight | Introduction to CSS by Scott Allen - 5: Layout with CSS - Absolute and Fixed Positioning - 1m 28s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=3&mode=live)
 
