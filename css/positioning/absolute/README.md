@@ -195,6 +195,3 @@ body {
   background: pink;
 }
 ```
-
-[After the tutorial]()
-
