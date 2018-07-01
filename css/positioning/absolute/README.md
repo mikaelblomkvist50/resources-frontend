@@ -1,4 +1,4 @@
-When I hear this element is `position: absolute;` I think of these things:
+# When I hear this element is `position: absolute;` I think of these things:
 
 1. What happens to the content that comes after the `{ position: absolute; }` element?
 
@@ -12,6 +12,7 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 
 It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }`. However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
 
+---
 
 - [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 2: Absolute  Positioning - 8m 15s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/2) 
 

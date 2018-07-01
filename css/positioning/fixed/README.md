@@ -1,4 +1,4 @@
-When I hear this element is `positioned: fixed;` I think of these things:
+# When I hear this element is `positioned: fixed;` I think of these things:
 
 1. What happens to the content that comes after the `{ position: fixed; }` element?
 
@@ -11,6 +11,8 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 3. What is the  `{ positioned: fixed; }` element relative to?
 
 It is positioned relative to to the viewport/browser window.
+
+---
 
 - [Pluralsight | Introduction to CSS by Scott Allen - 5: Layout with CSS - Absolute and Fixed Positioning - 1m 28s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=3&mode=live)
 
