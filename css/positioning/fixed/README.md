@@ -2,8 +2,80 @@ When I hear this element is `positioned: fixed;` I think that the elements width
 
 - [Pluralsight | Introduction to CSS by Scott Allen - 5: Layout with CSS - Absolute and Fixed Positioning - 1m 28s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=3&mode=live)
 
+---
+
 - [Pluralsight | CSS Positioning by Susan Simkins - 2: CSS Positioning - Fixed Positioning - 7m 32s](https://app.pluralsight.com/player?course=css-positioning-1834&author=susan-simkins&name=css-positioning-1834-m2&clip=0&mode=live)
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Positioning Fixed</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="box blueBox"></div>
+    <div class="box greenBox"></div>
+    <h1>Understanding CSS Positioning</h1>
+    <p><em>Fixed positioning</em> &rsquo;fixes&lsquo; the position of an element relative to the browser window. The element always stays fixed in place, even when scrolling.</p> 
+  </body>
+</html>
+```
+
+```css
+body {
+  background-color: #1f1f1f;
+  color: #bfbfbf;
+}
+
+h1 { font-weight: normal; }
+
+em { color: #e07a05; }
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.blueBox {
+  background: #627da0;
+}
+
+.greenBox {
+  background: #5b8054;
+}
+
+/* add the property */
+.blueBox {
+  position: fixed;
+}
+
+/* understanding values */
+.blueBox {
+  top: 150px;
+/*  bottom: 150px;*/
+  left: 150px;
+/*  right: 25px;*/
+}
+/* You can't have two conflicting values on each axis.
+   So if you think of it like a graph you can only have
+   one value from the top to bottom.
+   Or one value horizontally from left to right.
+*/
+
+/* Another key thing to understand fixed positioning is
+   where it stays relative to the browser window.
+   To see what I mean by this I'm going to apply a height
+   to the body to get a scroll bar that moves our page */
+body {
+  height: 2000px;
+}
+/* As we move the scroll bar, you can see what
+   fixed positioning actually does. And it's fixing it
+   in place realtive to the browser window. */
+```
 ---
 
 - [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 4: Fixed Positioning - 5m 15s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/4) 
