@@ -12,6 +12,8 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 
 It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }` or `{ position: absolute; }`. However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
 
+So if the ancestor doesn't have postioning such as `{ position: relative; }` or `{ position: absolute; }` then the child `{ position: absolute; }` element will be positioned relative to eh viewport/browser window.
+
 4. What happens if I scroll?
 
 The `{ position: absolute; }` element will not sit exactly in the spot where you positioned it when you scroll the browser window. 
