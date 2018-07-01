@@ -163,14 +163,37 @@ h2 { width: 300px; }
 
 [You Tube | CSS POSITIONING (PART 2) - DevTips - 3 Feb 2014 - 10m 49s](https://www.youtube.com/watch?v=Rf6zAP4YnZA&index=2&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6) 
 
--Before the tutorial:
+Before the tutorial:
 
 `index.html`:
 ```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Positioning Absolute</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="grand-dad">
+      <div class="dad">
+        Ut in nulla enim. Phasellus molestie non est bibendum non <span class="me">venenatis</span> nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor.
+      </div>
+    </div>
+  </body>
+</html>
 ```
 
 `style.css`:
 ```css
+body {
+  font-family: sans-serif;
+  padding: 100px;
+}
+
+.me {
+  background: pink;
+}
 ```
 
 [After the tutorial]()
