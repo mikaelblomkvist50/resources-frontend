@@ -10,7 +10,7 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 
 3. What is the  `{ position: absolute; }` element relative to?
 
-It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }` or `{ position: absolute; }` or `{ position: fixed; }` but not `{ position: static; }` because `static` is the default. [1](https://youtu.be/Rf6zAP4YnZA?list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&t=233). However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
+It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }` or `{ position: absolute; }` or `{ position: fixed; }` but not `{ position: static; }` because `static` is the default. [1](https://youtu.be/Rf6zAP4YnZA?list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&t=233). However if no ancestors has `{ position: relative; }` or `{ position: absolute; }` or `{ position: fixed; }`  then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
 
 So if the ancestor doesn't have postioning such as `{ position: relative; }` or `{ position: absolute; }` then the child `{ position: absolute; }` element will be positioned relative to eh viewport/browser window.
 
