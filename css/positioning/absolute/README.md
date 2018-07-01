@@ -1,12 +1,16 @@
-When I hear this element is `positioned: absolute;` I think of these things:
+When I hear this element is `position: absolute;` I think of these things:
 
 1. What happens to the content that comes after the `{ position: absolute; }` element?
 
+Content after the `{ position: absolute; }` element will ignore the `{ position: absolute; }` element and will move up underneath it. This results in the `{ position: absolute; }` element being overlayed on top of the previously below element which just moved up.
 
 2. Do `{ position: absolute; }` elements shrink-wrap or stay at the same length?
 
+It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` or `{ height: xxx px; }`) and stretched (meaning `{ left: xxx px; } and `{ right: xxx px; }` or `{ top: xxx px; }` and `{ bottom: xxx px; }`.)
 
-3. What is the  `{ positioned: absolute; }` element relative to?
+3. What is the  `{ position: absolute; }` element relative to?
+
+It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }`. However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
 
 
 - [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 2: Absolute  Positioning - 8m 15s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/2) 
