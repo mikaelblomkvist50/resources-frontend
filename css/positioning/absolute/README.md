@@ -18,8 +18,13 @@ So if the ancestor doesn't have postioning such as `{ position: relative; }` or 
 
 The `{ position: absolute; }` element will not sit exactly in the spot where you positioned it when you scroll the browser window. 
 
+---
+
 - [Pluralsight | CSS Positioning by Susan Simkins - 2: CSS Positioning - Absolute Positioning - 9m 12s](https://app.pluralsight.com/player?course=css-positioning-1834&author=susan-simkins&name=css-positioning-1834-m2&clip=1&mode=live)
 
+Before the tutorial:
+
+`index.html`:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -40,6 +45,7 @@ The `{ position: absolute; }` element will not sit exactly in the spot where you
 </html>
 ```
 
+`style.css`:
 ```css
 body {
   background-color: #1f1f1f;
@@ -62,10 +68,15 @@ em { color: #dd740b; }
 .greenBox { background: #5b8054; }
 ```
 
+[After the tutorial]()
+
 ---
 
 - [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 2: Absolute  Positioning - 8m 15s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/2) 
 
+Before the tutorial:
+
+`index.html`:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -86,6 +97,7 @@ em { color: #dd740b; }
 </html>
 ```
 
+`style.css`:
 ```css
 body
 {
@@ -144,3 +156,5 @@ h2 {
 /* sized */
 h2 { width: 300px; }
 ```
+
+[After the tutorial]()
