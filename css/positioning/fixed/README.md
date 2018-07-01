@@ -6,7 +6,7 @@ Content after the `{ postition: fixed; }` element will ignore the `{ position: f
 
 2. Do `{ position: fixed; }` elements shrink-wrap or stay at the same length?
 
-It originally shrink-wraps but can be sized or strethced later on.
+It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` or `{ height: xxx px; }`) and strethced (meaning `{ left xxx px; }` and `{ right: xxx px; }` or `{ top: xxx px; }` and `{ bottom: xxx px; }`.)
 
 3. What is the  `{ positioned: fixed; }` element relative to?
 
