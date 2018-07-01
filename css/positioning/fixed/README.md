@@ -12,6 +12,10 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 
 It is positioned relative to to the viewport/browser window.
 
+4. What happens if I scroll?
+
+The `{ position: fixed; }` element will sit exactly in the spot where you positioned it when you scroll the browser window. 
+
 ---
 
 - [Pluralsight | Introduction to CSS by Scott Allen - 5: Layout with CSS - Absolute and Fixed Positioning - 1m 28s](https://app.pluralsight.com/player?course=css-intro&author=scott-allen&name=css-layout&clip=3&mode=live)

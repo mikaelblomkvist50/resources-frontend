@@ -12,6 +12,29 @@ It originally shrink-wraps but can be sized (meaning given `{ width: xxx px; }` 
 
 It is positioned relative to the nearest ancestor with postioning meaning an ancestor that has `{ position: realtive; }`. However if no ancestors has `{ position: relative; }` then the element `{ postion: absolute; }` will be postioned realtive to the viewport/browser window.
 
+4. What happens if I scroll?
+
+The `{ position: absolute; }` element will not sit exactly in the spot where you positioned it when you scroll the browser window. 
+
+- [Pluralsight | CSS Positioning by Susan Simkins - 2: CSS Positioning - Absolute Positioning - 9m 12s](https://app.pluralsight.com/player?course=css-positioning-1834&author=susan-simkins&name=css-positioning-1834-m2&clip=1&mode=live)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Positioning Absolute</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+```css
+
+```
+
 ---
 
 - [Sitepoint | Getting Started with CSS By Russ Weakley - Lesson 7, Step 2: Absolute  Positioning - 8m 15s](https://www.sitepoint.com/premium/courses/getting-started-with-css-2903/lesson/7/step/2) 
