@@ -59,7 +59,7 @@ h2 {
 }
 
 /* add the property */
-h2 { position: absolute; } 
+h2 { position: absolute}
 /* Great example of becoming out of normal flow.
    And the content blow that is in flow has moved up.
    Ignoring the out of normal flow h2 content. */
@@ -79,10 +79,7 @@ h2 {
    the view port.
    If we give the the .container class some positioning then h2 will position
    it self relative to the .container class. */
-
-.container {
-  position: relative; 
-}
+.container { position: relative; }
 
 /* understanding values */
 h2 { left: -20px; }
