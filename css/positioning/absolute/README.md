@@ -158,3 +158,20 @@ h2 { width: 300px; }
 ```
 
 [After the tutorial]()
+
+---
+
+[You Tube | CSS POSITIONING (PART 2) - DevTips - 3 Feb 2014 - 10m 49s](https://www.youtube.com/watch?v=Rf6zAP4YnZA&index=2&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6) 
+
+-Before the tutorial:
+
+`index.html`:
+```html
+```
+
+`style.css`:
+```css
+```
+
+[After the tutorial]()
+
